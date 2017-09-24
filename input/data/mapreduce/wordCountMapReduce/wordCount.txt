@@ -1,0 +1,6 @@
+hadoop spark
+hadoop hive
+hbase flume
+sqoop hadoop
+java php
+spark hbase
